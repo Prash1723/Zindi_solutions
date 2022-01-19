@@ -44,6 +44,6 @@ Columns -
 
 ##### Test set - 1601 x 22
 
-##### Target - Total Cost (Delay)
+##### Target - Total Cost
 
 ##### Evaluation Metric - Mean Absolute Error
