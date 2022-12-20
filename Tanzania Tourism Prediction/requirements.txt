@@ -1,0 +1,6 @@
+bokeh==2.4.2
+geopandas==0.12.1
+numpy==1.21.5
+pandas==1.4.2
+pycountry==22.3.5
+pycountry_convert==0.7.2
