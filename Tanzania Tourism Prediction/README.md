@@ -52,4 +52,6 @@ Columns -
 
 ##### Dashboard - Bokeh Webapp
 
+Dashboard to visualize revenue collected.
+
 ![db image](tnz_dashboard.png)
